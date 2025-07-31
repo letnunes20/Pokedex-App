@@ -1,0 +1,14 @@
+git config --global user.name letnunes20
+git config --global user.email letcanunes@gmail.com
+
+npx create-expo-app@latest StickerSmash
+
+npm run reset-project
+
+->
+
+cd StickerSmash
+npm i
+y
+
+CTRL + ALT + F => Alinha o código
