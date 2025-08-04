@@ -1,9 +1,11 @@
 git config --global user.name letnunes20
 git config --global user.email letcanunes@gmail.com
 
-npx create-expo-app@latest StickerSmash
+npx create-expo-app@latest pokedex
 
 npm run reset-project
+
+npx expo start --localhost --android
 
 ->
 
@@ -11,4 +13,4 @@ cd StickerSmash
 npm i
 y
 
-CTRL + ALT + F => Alinha o código
+SHIFT + ALT + F => Alinha o código
