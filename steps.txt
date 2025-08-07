@@ -9,7 +9,7 @@ npx expo start --localhost --android
 
 ->
 
-cd StickerSmash
+cd pokedex
 npm i
 y
 
